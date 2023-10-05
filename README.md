@@ -1,1 +1,6 @@
-  #### Whenever I'm looking to make a new workflow environment there's this problem, you surf your search engines, get to websites that are really good but you get hammered with bad marketing and end up spedning 45 min just to find one wallpaper to boost creativity. So I will push all my files to whoever wants to stop that endless web surfing. All this content is not mine, but I'll be including their source once I push them.
+# Wallpapers
+
+My Collection of wallpapers, mostly wallhaven, DT's wallpapers over `gitlab.com/dwt1`.
+There are some repeated ones but this became unmanageable, so I decided to dedup by
+hash and using various tools and this is the cleanest it got, and still there are 
+duplicate files.
